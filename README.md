@@ -6,4 +6,4 @@ In recent years, as the amount of data has exploded and the number of payment ca
 
 
 
-You can get the dataset here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+You can directly download the dataset from kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
